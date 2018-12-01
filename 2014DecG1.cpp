@@ -1,7 +1,7 @@
 // COMPETITION: USACO
 // NAME: 2014DecG1, Guard Mark
 // DATE: December 1, 2018
-// STATUS: Unfinished
+// STATUS: Finished
 
 #include <bits/stdc++.h>
 using namespace std;
